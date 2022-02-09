@@ -28,7 +28,7 @@
 	?>
 	<div class="kalkulator">
 		<h2 class="judul">Kalkulator Sederhana</h2>
-		<form method="post" action="kalkulator.php">			
+		<form method="post" action="index.php">			
 			<input type="text" name="bil1" class="bil" autocomplete="off" placeholder="Bilangan Pertama">
 			<input type="text" name="bil2" class="bil" autocomplete="off" placeholder="Bilangan Kedua">
 			<select class="opt" name="operasi">
